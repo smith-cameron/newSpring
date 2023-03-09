@@ -62,6 +62,6 @@ public class CafeJava {
         }
         
         System.out.println(orderStatus ? readyMessage + displayTotalMessage + orderTotal : pendingMessage);
-
+        
     }
 }
